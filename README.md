@@ -1,8 +1,12 @@
 Класс калькулятора на c++17
 
+Сlass сalculator on the c++17
+
 Знает основные операции и их приоритет, умеет работать со скобками
 
-Пример:
+Knows the main operations and their priority, can work with brackets
+
+Пример Example:
 
 >`3.66^2`            
 >> Your Answer: 13.3956
